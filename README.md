@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cobrien033
 
-I'm an undergrad computer science student at California Polytechnic State University, San Luis Obispo. Contact me at [cpobrien@calpoly.edu](mailto:cpobrien@calpoly.edu) <br>
-
+I'm an undergrad computer science student at California Polytechnic State University, San Luis Obispo. <br>
+Contact: [cpobrien@calpoly.edu](mailto:cpobrien@calpoly.edu)
 Linkedin: [https://www.linkedin.com/in/obrienconnorp/](https://www.linkedin.com/in/obrienconnorp/) <br> <br>
 
 Projects I'm currently working on: 
